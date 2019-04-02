@@ -40,3 +40,5 @@ source ~/ todoDriver.sh
 print_my_input
 
 everytime u open ur terminal ur remainders will be listed....
+
+Type command "wattodo" in terminal to make changes or edit or update or mark the work as done in your remainders or work
